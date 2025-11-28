@@ -16,19 +16,20 @@ como funcionam as operações de de inserção, busca e travessia.
 2. Clone o repositório:
     ```bash
    git clone https://github.com/Mariocbneto/ED2--Arvores-Binarias-de-Busca-BST---Mario-Cadena-e-Livia-Maria.git
-    ``` <br><br>
+    ```
 3. Acesse a pasta do projeto e compile os arquivos:
     ```bash
    javac *.java
-    ``` <br><br>
+    ```
 4. Execute a classe principal ou faça testes conforme sua necessidade:
     ```bash
    java INSERCAO       # ou BUSCA, TRAVESSIA etc.
-    ``` <br><br>
+    ```
 Você também pode usar uma IDE (por exemplo Eclipse, IntelliJ, NetBeans) para importar o projeto e rodar diretamente via IDE.
 
 ## Funcionalidades Implementadas
 - Inserção de nós na árvore BST.
 - Busca de valores na árvore.
-- Travessia da árvore (in-order / pré-order / pós-order — dependendo da implementação).
+- Travessia da árvore (in-order / pré-order / pós-order).
 - Estrutura básica de classes Java, favorecendo entendimento didático.
+
