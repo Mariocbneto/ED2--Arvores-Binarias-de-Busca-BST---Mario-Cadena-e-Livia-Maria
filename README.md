@@ -1,35 +1,59 @@
-# ED2 – Árvores Binárias de Busca (BST)  
-Implementação em Java por **Mario Cadena & Lívia Maria**
+# Árvores Binárias de Busca (BST)
+Implementação em Java | Projeto de ED2  
+Autores: **Mario Cadena** & **Lívia Maria**
 
-## Descrição do Projeto  
-Este repositório contém uma implementação básica de Árvores Binárias de Busca (BST — Binary Search Tree) em Java, com o objetivo de facilitar o estudo da estrutura, mostrando de forma clara 
-como funcionam as operações de de inserção, busca e travessia. 
+## Descrição do Projeto
+Este repositório contém a implementação de uma **Árvore Binária de Busca (Binary Search Tree - BST)** em Java, desenvolvida como parte da disciplina **Estruturas de Dados II (ED2)**.
 
-## Objetivo  
-- Demonstrar a estrutura de uma BST com código limpo e comentado.  
-- Permitir a realização de testes das operações essenciais: inserção, busca e travessias.
-- Servir como base de aprendizado para a disciplina de ED2.
+O projeto demonstra as operações fundamentais de uma BST, de forma simples e didática, servindo como base para estudos e para compreensão da lógica da estrutura.
 
-## Como Executar / Testar  
+## Conteúdo do Vídeo (Resumo)
 
-1. Certifique-se de ter o Java instalado (versão compatível com o código — por exemplo Java 8 ou superior).  <br><br>
-2. Clone o repositório:
-    ```bash
-   git clone https://github.com/Mariocbneto/ED2--Arvores-Binarias-de-Busca-BST---Mario-Cadena-e-Livia-Maria.git
-    ```
-3. Acesse a pasta do projeto e compile os arquivos:
-    ```bash
-   javac *.java
-    ```
-4. Execute a classe principal ou faça testes conforme sua necessidade:
-    ```bash
-   java INSERCAO       # ou BUSCA, TRAVESSIA etc.
-    ```
-Você também pode usar uma IDE (por exemplo Eclipse, IntelliJ, NetBeans) para importar o projeto e rodar diretamente via IDE.
+O vídeo apresenta:
+- A explicação da estrutura da BST.
+- Como funcionam as operações de inserção, busca e travessia.
+- Demonstração da árvore sendo construída passo a passo.
+- Execução do código em Java, mostrando o resultado das operações.
 
 ## Funcionalidades Implementadas
-- Inserção de nós na árvore BST.
-- Busca de valores na árvore.
-- Travessia da árvore (in-order / pré-order / pós-order).
-- Estrutura básica de classes Java, favorecendo entendimento didático.
+- Inserção de nós na Árvores Binária de Busca.
+- Busca por valores.
+- Travessia da árvore nos métodos:
+  - **In-order**
+  - **Pré-order**
+  - **Pós-order**
+- Estrutura clara e organizada, ideal para aprendizado.
+
+## Como Executar o Código
+
+### 1. Pré-requisitos
+- Ter o **Java JDK** instalado (qualquer versão recente funciona).
+- Uma IDE de sua preferência (Eclipse, IntelliJ, NetBeans, VS Code)  
+  **ou** o uso do terminal/console do Java.
+
+### 2. Passo a passo para execução
+1. Baixe ou clone este repositório.
+2. Abra os arquivos `.java` em sua IDE.
+3. Compile as classes.
+4. Execute a classe principal que você deseja testar (por exemplo:  
+   - `INSERCAO`  
+   - `BUSCA`  
+   - `TRAVESSIA`  
+5. Use o código interno das classes para visualizar o funcionamento da árvore.
+
+## Exemplo de Uso
+- Inserindo valores na árvore  
+- Buscando um número específico  
+- Exibindo as travessias
+
+Isso ajuda a entender como a árvore se comporta ao longo das operações.
+
+## Observações
+Este projeto tem finalidade **didática** e pode ser estendido para:
+- Remoção de nós  
+- Árvores balanceadas (AVL, Red-Black)  
+- Interface gráfica para visualização  
+
+
+
 
